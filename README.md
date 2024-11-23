@@ -5,7 +5,7 @@ Este repositório contém o **back-end** do projeto **Instalike**, uma simulaç�
 ## Front-end
 Para acessar o repositório do front-end:
 
-[Instalike - Backend](https://github.com/luanabeatrizschroeder/insta-like-main)
+[Instalike: Front-End](https://github.com/luanabeatrizschroeder/insta-like-main)
 
 Para abrir em uma nova aba, clique com o botão direito do mouse e selecione "Abrir link em nova aba".
 
