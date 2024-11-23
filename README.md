@@ -12,7 +12,7 @@ Para abrir em uma nova aba, clique com o botão direito do mouse e selecione "Ab
 ## Deploy
 O projeto está disponível para consulta e uso através da seguinte URL:
 
-[Instalike - Backend](https://insta-like-backend-388164544144.southamerica-east1.run.app/posts)
+[Instalike: Cloud Back-End](https://insta-like-backend-388164544144.southamerica-east1.run.app/posts)
 
 Para abrir em uma nova aba, clique com o botão direito do mouse e selecione "Abrir link em nova aba".
 
